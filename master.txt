@@ -1,2 +1,6 @@
 master3
+<<<<<<< HEAD
 this second
+=======
+this is feature
+>>>>>>> feat
